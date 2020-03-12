@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ElectricidadAutomotriz
+</name>
+</assembly>
+<members>
+<member name="P:ElectricidadAutomotriz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.boton_eliminar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.goma_de_borrar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.guardar__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.lupa_de_busqueda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.periodico_doblado">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.signo_de_interrogacion_en_un_fondo_negro_circular">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ElectricidadAutomotriz.My.Resources.Resources.WhatsApp_Image_2019_03_17_at_7_07_36_PM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ElectricidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.FrenosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.MotorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.NeumaticosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.OtrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ElectricidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.FrenosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.MotorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.NeumaticosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.OtrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.ElectricidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.FrenosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.MotorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.NeumaticosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet.OtrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.ElectricidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.FrenosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.MotorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.NeumaticosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.OtrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ElectricidadAutomotriz.carrosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ElectricidadAutomotriz.carrosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ElectricidadAutomotriz.carrosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.UpdateAll(ElectricidadAutomotriz.carrosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ElectricidadAutomotriz.carrosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
